@@ -1,6 +1,6 @@
 import re
 
-file = open('equality.txt', 'r')
+file = open('3/equality.txt', 'r')
 lines = file.readlines()
 groups = ""
 
